@@ -1,1 +1,1 @@
-# lidong-s-code-resource
+# code-resource
